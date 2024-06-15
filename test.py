@@ -1,2 +1,2 @@
 print("测试")
-print()
+print("第二次")
